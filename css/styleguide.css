@@ -1,0 +1,105 @@
+:root { 
+  --alabaster: #f9fafc;
+  --black: #000000;
+  --blue-ribbon: #0961f7;
+  --bodytext: #0f111d;
+  --desert-storm: #f8f8f8;
+  --portage: #73a4f7;
+  --shuttle-gray: #5b6473;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 17px;
+  --font-size-xl: 32px;
+  --font-size-xs: 16px;
+  --font-size-xxl: 36px;
+  --font-size-xxs: 14px;
+ 
+  --font-family-dm_sans: "DM Sans", Helvetica;
+}
+.dmsans-bold-vulcan-32px {
+  color: var(--bodytext);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-bold-blue-ribbon-32px {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-normal-vulcan-18px {
+  color: var(--bodytext);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-bold-white-18px {
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-bold-blue-ribbon-18px {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.dmsans-normal-vulcan-16px {
+  color: var(--bodytext);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.dmsans-medium-blue-ribbon-14px {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-medium-portage-14px {
+  color: var(--portage);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-medium-shuttle-gray-14px {
+  color: var(--shuttle-gray);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.dmsans-bold-white-32px {
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}

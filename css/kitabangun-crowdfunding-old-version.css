@@ -1,0 +1,1692 @@
+/* screen - kitabangun-crowdfunding-old-version */
+
+.kitabangun-crowdfunding-old-version {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3979px;
+  width: 1440px;
+}
+
+.kitabangun-crowdfunding-old-version .header {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 91px;
+  justify-content: flex-start;
+  min-width: 1440px;
+  padding: 31px 205px;
+  width: auto;
+}
+
+.kitabangun-crowdfunding-old-version .group-4 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  gap: 8px;
+  min-width: 116px;
+}
+
+.kitabangun-crowdfunding-old-version .ribuilding-2-fill {
+  height: 25px;
+  width: 20px;
+}
+
+.kitabangun-crowdfunding-old-version .kita-bangun {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 21px;
+  min-width: 86px;
+}
+
+.kitabangun-crowdfunding-old-version .span1 {
+  font-weight: 700;
+}
+
+.kitabangun-crowdfunding-old-version .navbar {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  height: 18px;
+  margin-bottom: 1.0px;
+  margin-left: 99px;
+  min-width: 310px;
+}
+
+.kitabangun-crowdfunding-old-version .navbar-link-place {
+  min-width: 40px;
+}
+
+.kitabangun-crowdfunding-old-version .navbar-link-name {
+  min-width: 49px;
+}
+
+.kitabangun-crowdfunding-old-version .navbar-link-disaster {
+  min-width: 55px;
+}
+
+.kitabangun-crowdfunding-old-version .group-36 {
+  align-items: flex-start;
+  display: flex;
+  gap: 48px;
+  margin-bottom: 1.0px;
+  margin-left: 238px;
+  min-width: 267px;
+}
+
+.kitabangun-crowdfunding-old-version .group-35 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 8px;
+  height: 19px;
+  min-width: 96px;
+}
+
+.kitabangun-crowdfunding-old-version .icon-bar_chart {
+  height: 17px;
+  width: 17px;
+}
+
+.kitabangun-crowdfunding-old-version .open-data {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  min-width: 71px;
+}
+
+.kitabangun-crowdfunding-old-version .group-5 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  min-width: 125px;
+}
+
+.kitabangun-crowdfunding-old-version .heroicons-solidphone {
+  height: 20px;
+  width: 16px;
+}
+
+.kitabangun-crowdfunding-old-version .phone {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 0.29px;
+  min-height: 18px;
+  width: 99px;
+}
+
+.kitabangun-crowdfunding-old-version .hero {
+  align-items: flex-end;
+  background-color: #f3f8fe;
+  display: flex;
+  height: 815px;
+  min-width: 1440px;
+  padding: 75.4px 86px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group6 {
+  height: 650px;
+  position: relative;
+  width: 1267px;
+}
+
+.kitabangun-crowdfunding-old-version .group-container {
+  height: 650px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1267px;
+}
+
+.kitabangun-crowdfunding-old-version .mask-group {
+  align-items: flex-end;
+  display: flex;
+  gap: 538px;
+  height: 156px;
+  justify-content: flex-end;
+  left: 1055px;
+  min-width: 178px;
+  position: absolute;
+  top: 427px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/union.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 164px;
+  margin-bottom: -4px;
+  min-width: 186px;
+  padding: 4px;
+}
+
+.kitabangun-crowdfunding-old-version .j-eey-zsaxb-h4 {
+  height: 155px;
+  object-fit: cover;
+  width: 178px;
+}
+
+.kitabangun-crowdfunding-old-version .union {
+  height: 156px;
+  margin-bottom: -450px;
+  width: 178px;
+}
+
+.kitabangun-crowdfunding-old-version .mask-group-1 {
+  align-items: flex-end;
+  gap: 716px;
+  height: 143px;
+  justify-content: flex-end;
+  left: 1104px;
+  min-width: 163px;
+  top: 18px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/union-2.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 151px;
+  margin-bottom: -4.0px;
+  min-width: 171px;
+  padding: 0 4px;
+}
+
+.kitabangun-crowdfunding-old-version .rt-cf-gti7n-ca {
+  height: 143px;
+  object-fit: cover;
+  width: 163px;
+}
+
+.kitabangun-crowdfunding-old-version .union-1 {
+  height: 143px;
+  margin-bottom: -593.18px;
+  width: 163px;
+}
+
+.kitabangun-crowdfunding-old-version .mask-group-2 {
+  align-items: center;
+  gap: 657px;
+  height: 203px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 196px;
+  top: 0;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group2 {
+  align-items: center;
+  background-image: url(../img/union-4.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 144px;
+  margin-bottom: 16.36px;
+  min-width: 160px;
+  padding: 0 4.0px;
+}
+
+.kitabangun-crowdfunding-old-version .pl-aq7-g7-ncms {
+  height: 136px;
+  object-fit: cover;
+  width: 152px;
+}
+
+.kitabangun-crowdfunding-old-version .union-2 {
+  align-self: flex-end;
+  height: 136px;
+  margin-bottom: -383.7px;
+  width: 155px;
+}
+
+.kitabangun-crowdfunding-old-version .mask-group-3 {
+  align-items: center;
+  gap: 602px;
+  height: 249px;
+  justify-content: flex-end;
+  left: 21px;
+  min-width: 240px;
+  top: 401px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group3 {
+  align-items: center;
+  background-image: url(../img/union-6.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 175px;
+  justify-content: flex-end;
+  margin-top: 20.06px;
+  min-width: 194px;
+  padding: 0 4.0px;
+}
+
+.kitabangun-crowdfunding-old-version .c-ve-oh_j-jm-ee {
+  height: 167px;
+  object-fit: cover;
+  width: 186px;
+}
+
+.kitabangun-crowdfunding-old-version .union-3 {
+  align-self: flex-end;
+  height: 167px;
+  margin-bottom: -617.3px;
+  width: 190px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group4 {
+  height: 539px;
+  left: 163px;
+  position: absolute;
+  top: 24px;
+  width: 957px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-8 {
+  background-color: var(--blue-ribbon);
+  border-radius: 5px;
+  height: 10px;
+  left: 864px;
+  position: absolute;
+  top: 101px;
+  width: 10px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-9 {
+  background-color: var(--blue-ribbon);
+  border-radius: 5px;
+  height: 10px;
+  left: 947px;
+  position: absolute;
+  top: 216px;
+  width: 10px;
+}
+
+.kitabangun-crowdfunding-old-version .vector-1 {
+  height: 180px;
+  left: 793px;
+  position: absolute;
+  top: 220px;
+  width: 160px;
+}
+
+.kitabangun-crowdfunding-old-version .vector-2 {
+  height: 116px;
+  left: 867px;
+  position: absolute;
+  top: 105px;
+  width: 74px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-2 {
+  background-color: #f3f8fe;
+  border-radius: 8px;
+  height: 539px;
+  left: 144px;
+  position: absolute;
+  top: 0;
+  width: 650px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-3 {
+  border: 2px solid;
+  border-color: var(--blue-ribbon);
+  border-radius: 8px;
+  height: 539px;
+  left: 143px;
+  position: absolute;
+  top: 0;
+  width: 652px;
+}
+
+.kitabangun-crowdfunding-old-version .vector-3 {
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 131px;
+  width: 144px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-10 {
+  background-color: var(--blue-ribbon);
+  border-radius: 5px;
+  height: 10px;
+  left: 23px;
+  position: absolute;
+  top: 187px;
+  width: 10px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-11 {
+  background-color: var(--blue-ribbon);
+  border-radius: 5px;
+  height: 10px;
+  left: 82px;
+  position: absolute;
+  top: 377px;
+  width: 10px;
+}
+
+.kitabangun-crowdfunding-old-version .vector-4 {
+  height: 253px;
+  left: 38px;
+  position: absolute;
+  top: 192px;
+  width: 50px;
+}
+
+.kitabangun-crowdfunding-old-version .hero-content {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 408px;
+  min-height: 308px;
+  position: absolute;
+  top: 153px;
+  width: 450px;
+}
+
+.kitabangun-crowdfunding-old-version .give-loves-spread-the-goodness {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(51, 126.43, 255) 1.15%, rgb(9, 97, 247) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 50.4px;
+  margin-left: 25.0px;
+  min-height: 100px;
+  min-width: 377px;
+  text-align: center;
+  text-fill-color: transparent;
+}
+
+.kitabangun-crowdfunding-old-version .the-world-first-crow {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 4.0px;
+  margin-top: 24px;
+  min-height: 81px;
+  text-align: center;
+  width: 446px;
+}
+
+.kitabangun-crowdfunding-old-version .cta {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 56px;
+  margin-left: 25.0px;
+  margin-top: 47px;
+  min-width: 341px;
+}
+
+.kitabangun-crowdfunding-old-version .frame-1 {
+  background: linear-gradient(180deg, rgb(97.75, 155.89, 255) 1.15%, rgb(9, 97, 247) 100%);
+}
+
+.kitabangun-crowdfunding-old-version .invest-now {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 31.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.kitabangun-crowdfunding-old-version .frame-2 {
+  border: 1px solid;
+  border-color: var(--blue-ribbon);
+  flex-direction: column;
+}
+
+.kitabangun-crowdfunding-old-version .group-8 {
+  height: 32px;
+  margin-right: -2.00px;
+  min-width: 137px;
+  position: relative;
+}
+
+.kitabangun-crowdfunding-old-version .icon-play {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.kitabangun-crowdfunding-old-version .watch-video {
+  color: var(--blue-ribbon);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.kitabangun-crowdfunding-old-version .app-section {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 77px;
+  margin-left: 24.0px;
+  margin-top: 51px;
+  min-height: 839px;
+  width: 1054px;
+}
+
+.kitabangun-crowdfunding-old-version .flex-col {
+  flex-direction: column;
+  gap: 12px;
+  min-height: 120px;
+  width: 666px;
+}
+
+.kitabangun-crowdfunding-old-version .platform-crowdfunding-modern {
+  letter-spacing: 0.70px;
+  line-height: normal;
+  min-height: 18px;
+}
+
+.kitabangun-crowdfunding-old-version .salurkan-bantuan-den {
+  letter-spacing: 0;
+  line-height: 44.8px;
+  min-height: 90px;
+  width: 666px;
+}
+
+.kitabangun-crowdfunding-old-version .flex-row {
+  gap: 121px;
+  min-width: 1051px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group1-1 {
+  height: 642px;
+  position: relative;
+  width: 343px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-3-1 {
+  background-color: #619bff;
+  height: 642px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 159px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-5 {
+  background-color: #124aaa1a;
+  border-radius: 16px;
+  filter: blur(100px);;
+  height: 542px;
+  left: 37px;
+  position: absolute;
+  top: 72px;
+  width: 306px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-4 {
+  background-color: var(--white);
+  border-radius: 16px;
+  height: 575px;
+  left: 34px;
+  position: absolute;
+  top: 30px;
+  width: 281px;
+}
+
+.kitabangun-crowdfunding-old-version .mask-group-4 {
+  align-items: flex-end;
+  flex-direction: column;
+  left: 48px;
+  min-height: 541px;
+  top: 45px;
+  width: 267px;
+}
+
+.kitabangun-crowdfunding-old-version .vector {
+  align-self: flex-start;
+  height: 18px;
+  margin-left: 11.38px;
+  margin-top: 14px;
+  width: 91px;
+}
+
+.kitabangun-crowdfunding-old-version .group-37 {
+  height: 108px;
+  margin-top: 41px;
+  width: 258px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-7 {
+  height: 541px;
+  margin-right: -720px;
+  margin-top: 269px;
+  width: 267px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-18 {
+  background-color: var(--alabaster);
+  height: 10px;
+  left: 80px;
+  position: absolute;
+  top: 293px;
+  width: 77px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-19 {
+  background-color: var(--alabaster);
+  height: 10px;
+  left: 80px;
+  position: absolute;
+  top: 309px;
+  width: 77px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-20 {
+  background-color: var(--alabaster);
+  height: 10px;
+  left: 80px;
+  position: absolute;
+  top: 325px;
+  width: 115px;
+}
+
+.kitabangun-crowdfunding-old-version .donation {
+  color: var(--bodytext);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 484px;
+}
+
+.kitabangun-crowdfunding-old-version .group-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 278px;
+  min-height: 10px;
+  position: absolute;
+  top: 67px;
+  width: 18px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-9 {
+  background-color: var(--blue-ribbon);
+  height: 2px;
+  width: 10px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-10 {
+  background-color: var(--blue-ribbon);
+  height: 2px;
+  width: 18px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-11 {
+  background-color: var(--blue-ribbon);
+  height: 2px;
+  width: 14px;
+}
+
+.kitabangun-crowdfunding-old-version .open-data-1 {
+  color: var(--bodytext);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 246px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group-2 {
+  height: 177px;
+  left: 59px;
+  position: absolute;
+  top: 293px;
+  width: 256px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group-item {
+  height: 172px;
+  left: 4px;
+  position: absolute;
+  top: 5px;
+  width: 252px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-12 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--blue-ribbon);
+  border-radius: 4.66px/5px;
+  height: 10px;
+  left: 141px;
+  position: absolute;
+  top: 67px;
+  width: 9px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-13 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--blue-ribbon);
+  border-radius: 4.66px/5px;
+  height: 10px;
+  left: 238px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-14 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--blue-ribbon);
+  border-radius: 4.66px/5px;
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 99px;
+  width: 9px;
+}
+
+.kitabangun-crowdfunding-old-version .text-1 {
+  color: #0abd92;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 256px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 484px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-12 {
+  background-color: var(--alabaster);
+  height: 17px;
+  left: 64px;
+  position: absolute;
+  top: 526px;
+  width: 108px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-21 {
+  background-color: var(--alabaster);
+  height: 17px;
+  left: 190px;
+  position: absolute;
+  top: 526px;
+  width: 105px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-13 {
+  background-color: var(--alabaster);
+  height: 17px;
+  left: 64px;
+  position: absolute;
+  top: 550px;
+  width: 108px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-22 {
+  background-color: var(--alabaster);
+  height: 17px;
+  left: 190px;
+  position: absolute;
+  top: 550px;
+  width: 105px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-14 {
+  background-color: var(--alabaster);
+  height: 17px;
+  left: 64px;
+  position: absolute;
+  top: 574px;
+  width: 61px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-23 {
+  background-color: var(--alabaster);
+  height: 17px;
+  left: 190px;
+  position: absolute;
+  top: 574px;
+  width: 81px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-15 {
+  background-color: #ffe5ee;
+  border-radius: 2px;
+  height: 12px;
+  left: 63px;
+  position: absolute;
+  top: 292px;
+  width: 11px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-16 {
+  background-color: #e2fcf3;
+  border-radius: 2px;
+  height: 12px;
+  left: 63px;
+  position: absolute;
+  top: 308px;
+  width: 11px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-17 {
+  background-color: #ebf3fe;
+  border-radius: 2px;
+  height: 12px;
+  left: 63px;
+  position: absolute;
+  top: 324px;
+  width: 11px;
+}
+
+.kitabangun-crowdfunding-old-version .flex-col-1 {
+  min-height: 585px;
+  width: 587px;
+}
+
+.kitabangun-crowdfunding-old-version .open-data-desc {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 172px;
+  width: 529px;
+}
+
+.kitabangun-crowdfunding-old-version .open-data-adalah-gag {
+  color: var(--shuttle-gray);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 31.5px;
+  min-height: 128px;
+  width: 525px;
+}
+
+.kitabangun-crowdfunding-old-version .baca-selengkapnya {
+  letter-spacing: 0;
+  line-height: 31.5px;
+  min-height: 32px;
+  min-width: 159px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.kitabangun-crowdfunding-old-version .line-1 {
+  height: 1px;
+  margin-top: 43px;
+  object-fit: cover;
+  width: 586px;
+}
+
+.kitabangun-crowdfunding-old-version .sering-ditanyakan {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 32px;
+  min-height: 337px;
+  width: 587px;
+}
+
+.kitabangun-crowdfunding-old-version .frequently-asked-question {
+  color: var(--bodytext);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 35px;
+  min-width: 264px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group-3 {
+  align-items: center;
+  background-color: var(--alabaster);
+  border-radius: 2px;
+  display: flex;
+  gap: 100px;
+  height: 63px;
+  margin-top: 29px;
+  min-width: 585px;
+  padding: 17px 32px;
+}
+
+.kitabangun-crowdfunding-old-version .mengapa-perlu-menggu {
+  align-self: flex-end;
+  letter-spacing: 0.64px;
+  line-height: 28px;
+  min-width: 397px;
+  white-space: nowrap;
+}
+
+.kitabangun-crowdfunding-old-version .dashiconsarrow-down-alt2 {
+  height: 24px;
+  margin-top: 1.0px;
+  width: 24px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group {
+  align-items: flex-start;
+  background-color: var(--alabaster);
+  border-radius: 2px;
+  display: flex;
+  gap: 144px;
+  height: 63px;
+  margin-top: 7px;
+  min-width: 585px;
+  padding: 17px 32px;
+}
+
+.kitabangun-crowdfunding-old-version .apakah-open-data-bis {
+  letter-spacing: 0.64px;
+  line-height: 28px;
+  min-width: 353px;
+  white-space: nowrap;
+}
+
+.kitabangun-crowdfunding-old-version .dashiconsarrow-down-alt2-1 {
+  align-self: center;
+  height: 24px;
+  margin-bottom: 1.0px;
+  width: 24px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group1-2 {
+  align-items: center;
+  background-color: var(--alabaster);
+  border-radius: 2px;
+  display: flex;
+  gap: 100px;
+  height: 63px;
+  margin-top: 7px;
+  min-width: 585px;
+  padding: 17px 32px;
+}
+
+.kitabangun-crowdfunding-old-version .statistic-section {
+  align-items: flex-start;
+  display: flex;
+  gap: 59px;
+  height: 624px;
+  margin-left: 105.0px;
+  margin-top: 160px;
+  min-width: 1135px;
+}
+
+.kitabangun-crowdfunding-old-version .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  min-height: 485px;
+  width: 622px;
+}
+
+.kitabangun-crowdfunding-old-version .group-28 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 165px;
+  width: 614px;
+}
+
+.kitabangun-crowdfunding-old-version .misi-kemanusiaan {
+  letter-spacing: 0.70px;
+  line-height: normal;
+  min-height: 18px;
+}
+
+.kitabangun-crowdfunding-old-version .bantu-saudara-yang-t {
+  letter-spacing: 0;
+  line-height: 44.8px;
+  min-height: 135px;
+  width: 610px;
+}
+
+.kitabangun-crowdfunding-old-version .group-27 {
+  align-items: flex-start;
+  display: flex;
+  gap: 41px;
+  height: 272px;
+  min-width: 622px;
+}
+
+.kitabangun-crowdfunding-old-version .flex-col-2 {
+  gap: 24px;
+  min-height: 272px;
+  width: 274px;
+}
+
+.kitabangun-crowdfunding-old-version .x22690-pembukaan-don {
+  letter-spacing: 0;
+  line-height: 31.5px;
+  min-height: 64px;
+  width: 274px;
+}
+
+.kitabangun-crowdfunding-old-version .x6450-bantuan-telah {
+  letter-spacing: 0.36px;
+  line-height: 31.5px;
+  min-height: 64px;
+  width: 274px;
+}
+
+.kitabangun-crowdfunding-old-version .x5058-bantuan-telah {
+  letter-spacing: 0;
+  line-height: 31.5px;
+  min-height: 96px;
+  width: 274px;
+}
+
+.kitabangun-crowdfunding-old-version .flex-col-3 {
+  gap: 24px;
+  min-height: 272px;
+  width: 295px;
+}
+
+.kitabangun-crowdfunding-old-version .x14-miliar-total-dan {
+  letter-spacing: 0.36px;
+  line-height: 31.5px;
+  min-height: 64px;
+  width: 294px;
+}
+
+.kitabangun-crowdfunding-old-version .x10517-bantuan-telah {
+  letter-spacing: 0.36px;
+  line-height: 31.5px;
+  margin-left: 1px;
+  min-height: 64px;
+  width: 294px;
+}
+
+.kitabangun-crowdfunding-old-version .x4803-bantuan-telah {
+  letter-spacing: 0.36px;
+  line-height: 31.5px;
+  min-height: 96px;
+  width: 294px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group7 {
+  align-self: flex-end;
+  height: 471px;
+  margin-bottom: 0;
+  position: relative;
+  width: 454px;
+}
+
+.kitabangun-crowdfunding-old-version .group-container-2 {
+  height: 471px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 454px;
+}
+
+.kitabangun-crowdfunding-old-version .mask-group-5 {
+  align-items: flex-end;
+  gap: 335px;
+  height: 454px;
+  left: 0;
+  min-width: 454px;
+  top: 0;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group-4 {
+  border-radius: 227px;
+  height: 454px;
+  position: relative;
+  width: 454px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-15 {
+  border: 1.5px solid;
+  border-color: var(--desert-storm);
+  border-radius: 178.89px;
+  height: 358px;
+  left: 47px;
+  position: absolute;
+  top: 47px;
+  width: 358px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-17 {
+  border: 1.5px solid;
+  border-color: var(--desert-storm);
+  border-radius: 203.82px;
+  height: 408px;
+  left: 22px;
+  position: absolute;
+  top: 22px;
+  width: 408px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-18 {
+  border: 1.5px solid;
+  border-color: var(--desert-storm);
+  border-radius: 227px;
+  height: 454px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 454px;
+}
+
+.kitabangun-crowdfunding-old-version .image-1 {
+  height: 315px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 69px;
+  width: 315px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-19 {
+  height: 315px;
+  margin-bottom: -380.02px;
+  width: 315px;
+}
+
+.kitabangun-crowdfunding-old-version .group-18 {
+  height: 423px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 406px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-19-1 {
+  background-color: var(--blue-ribbon);
+  border-radius: 7px;
+  height: 14px;
+  left: 377px;
+  position: absolute;
+  top: 55px;
+  width: 14px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-21 {
+  background-color: #ffc30d;
+  border-radius: 7px;
+  height: 14px;
+  left: 15px;
+  position: absolute;
+  top: 197px;
+  width: 14px;
+}
+
+.kitabangun-crowdfunding-old-version .ellipse-20 {
+  background-color: #18c653;
+  border-radius: 7px;
+  height: 14px;
+  left: 101px;
+  position: absolute;
+  top: 352px;
+  width: 14px;
+}
+
+.kitabangun-crowdfunding-old-version .line-2 {
+  height: 3px;
+  margin-left: 105.0px;
+  margin-top: 60px;
+  width: 1135px;
+}
+
+.kitabangun-crowdfunding-old-version .partner-section {
+  align-items: flex-end;
+  display: flex;
+  gap: 11px;
+  height: 422px;
+  margin-left: 111.0px;
+  margin-top: 97px;
+  min-width: 1141px;
+}
+
+.kitabangun-crowdfunding-old-version .flex-col-4 {
+  min-height: 422px;
+  width: 960px;
+}
+
+.kitabangun-crowdfunding-old-version .partner-kami {
+  letter-spacing: 0.70px;
+  line-height: normal;
+  min-height: 18px;
+}
+
+.kitabangun-crowdfunding-old-version .lebih-dari-50-perusa {
+  letter-spacing: 0;
+  line-height: 44.8px;
+  margin-top: 12px;
+  min-height: 90px;
+  width: 960px;
+}
+
+.kitabangun-crowdfunding-old-version .group-26 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-top: 64px;
+  min-height: 238px;
+  width: 959px;
+}
+
+.kitabangun-crowdfunding-old-version .group-23 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  min-width: 959px;
+}
+
+.kitabangun-crowdfunding-old-version .group-19 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 1px #3244620f;
+  display: flex;
+  height: 103px;
+  justify-content: flex-end;
+  min-width: 230px;
+  padding: 33px 30.7px;
+}
+
+.kitabangun-crowdfunding-old-version .x58480fd7cef1014c0b5e4943-1 {
+  height: 36px;
+  object-fit: cover;
+  width: 168px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group1-3 {
+  height: 117px;
+  position: relative;
+  width: 230px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-29 {
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 1px #3244620f;
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 230px;
+}
+
+.kitabangun-crowdfunding-old-version .image-4 {
+  height: 117px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 195px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group-5 {
+  height: 103px;
+  position: relative;
+  width: 233px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-30 {
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 1px #3244620f;
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.kitabangun-crowdfunding-old-version .image-3 {
+  height: 66px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 215px;
+}
+
+.kitabangun-crowdfunding-old-version .group-22 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 1px #3244620f;
+  display: flex;
+  height: 103px;
+  min-width: 230px;
+  padding: 25px 41px;
+}
+
+.kitabangun-crowdfunding-old-version .image-5 {
+  height: 52px;
+  object-fit: cover;
+  width: 148px;
+}
+
+.kitabangun-crowdfunding-old-version .group-25 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  min-width: 956px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group2-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 1px #3244620f;
+  display: flex;
+  height: 103px;
+  min-width: 230px;
+  padding: 17px 30px;
+}
+
+.kitabangun-crowdfunding-old-version .image-10 {
+  height: 68px;
+  object-fit: cover;
+  width: 170px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group3-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 1px #3244620f;
+  display: flex;
+  height: 103px;
+  min-width: 230px;
+  padding: 29px 38px;
+}
+
+.kitabangun-crowdfunding-old-version .image-11 {
+  height: 44px;
+  object-fit: cover;
+  width: 153px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group4-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 1px #3244620f;
+  display: flex;
+  height: 103px;
+  justify-content: flex-end;
+  min-width: 230px;
+  padding: 26px 44px;
+}
+
+.kitabangun-crowdfunding-old-version .image-12 {
+  height: 50px;
+  object-fit: cover;
+  width: 141px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group5 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 1px #3244620f;
+  display: flex;
+  height: 103px;
+  justify-content: flex-end;
+  min-width: 230px;
+  padding: 0 51px;
+}
+
+.kitabangun-crowdfunding-old-version .image-13 {
+  height: 95px;
+  object-fit: cover;
+  width: 127px;
+}
+
+.kitabangun-crowdfunding-old-version .overlap-group8 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px 1px #3244620f;
+  display: flex;
+  height: 231px;
+  justify-content: flex-end;
+  min-width: 164px;
+  padding: 87px 43px;
+}
+
+.kitabangun-crowdfunding-old-version .name {
+  color: var(--shuttle-gray);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 28px;
+  min-height: 56px;
+  min-width: 77px;
+  text-align: center;
+}
+
+.kitabangun-crowdfunding-old-version .group-container-3 {
+  border-radius: 4px;
+  height: 255px;
+  margin-left: 23.0px;
+  margin-top: 160px;
+  position: relative;
+  width: 1067px;
+}
+
+.kitabangun-crowdfunding-old-version .group-39 {
+  align-items: flex-end;
+  background: linear-gradient(180deg, rgb(9, 97, 247) 0%, rgb(107.31, 161.92, 255) 100%);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 195px;
+  left: 0;
+  min-height: 255px;
+  position: absolute;
+  top: 0;
+  width: 1067px;
+}
+
+.kitabangun-crowdfunding-old-version .kate-hliznitsova-h-a {
+  height: 255px;
+  object-fit: cover;
+  width: 711px;
+}
+
+.kitabangun-crowdfunding-old-version .rectangle-53 {
+  height: 255px;
+  margin-right: -720px;
+  width: 1067px;
+}
+
+.kitabangun-crowdfunding-old-version .group-42 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  left: 47px;
+  min-height: 180px;
+  position: absolute;
+  top: 36px;
+  width: 425px;
+}
+
+.kitabangun-crowdfunding-old-version .group-40 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 73px;
+  width: 259px;
+}
+
+.kitabangun-crowdfunding-old-version .call-center {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.kitabangun-crowdfunding-old-version .phone-1 {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 47px;
+}
+
+.kitabangun-crowdfunding-old-version .group-41 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 78px;
+  width: 429px;
+}
+
+.kitabangun-crowdfunding-old-version .email {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.kitabangun-crowdfunding-old-version .title {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 52px;
+}
+
+.kitabangun-crowdfunding-old-version .footer-section {
+  background-color: var(--bodytext);
+  gap: 402px;
+  height: 309px;
+  justify-content: flex-end;
+  margin-top: 93px;
+  min-width: 1440px;
+  padding: 66px 157px;
+}
+
+.kitabangun-crowdfunding-old-version .footermenu-container {
+  height: 176px;
+  position: relative;
+  width: 382px;
+}
+
+.kitabangun-crowdfunding-old-version .footer-menu-left {
+  align-items: flex-start;
+  min-height: 125px;
+  top: 51px;
+  width: 111px;
+}
+
+.kitabangun-crowdfunding-old-version .tata-cara {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+}
+
+.kitabangun-crowdfunding-old-version .partner-kami-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+}
+
+.kitabangun-crowdfunding-old-version .komunitas {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+}
+
+.kitabangun-crowdfunding-old-version .footer-menu-right {
+  align-items: center;
+  min-height: 176px;
+  top: 0;
+  width: 382px;
+}
+
+.kitabangun-crowdfunding-old-version .flex-row-1 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  gap: 122px;
+  height: 23px;
+  min-width: 372px;
+}
+
+.kitabangun-crowdfunding-old-version .tentang {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+  min-width: 66px;
+}
+
+.kitabangun-crowdfunding-old-version .laporkan-pelanggaran {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 23px;
+}
+
+.kitabangun-crowdfunding-old-version .kebijakan {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 73.0px;
+  min-height: 23px;
+  min-width: 79px;
+}
+
+.kitabangun-crowdfunding-old-version .bantuan {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 63.0px;
+  min-height: 23px;
+  min-width: 69px;
+}
+
+.kitabangun-crowdfunding-old-version .kerja-sama {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 85.0px;
+  min-height: 23px;
+  min-width: 91px;
+}
+
+.kitabangun-crowdfunding-old-version .footer-description {
+  flex-direction: column;
+  min-height: 176px;
+  width: 301px;
+}
+
+.kitabangun-crowdfunding-old-version .alamat-kantor {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 18px;
+  min-height: 23px;
+  min-width: 116px;
+}
+
+.kitabangun-crowdfunding-old-version .jalan-rambu-raya-tim {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 7px;
+  margin-top: 28px;
+  min-height: 54px;
+  min-width: 268px;
+  text-align: right;
+  text-decoration: underline;
+}
+
+.kitabangun-crowdfunding-old-version .x2021-kita-bangun-digital-platform {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 44px;
+  min-width: 295px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.kitabangun-crowdfunding-old-version .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.kitabangun-crowdfunding-old-version .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.kitabangun-crowdfunding-old-version .footer {
+  align-items: flex-end;
+  display: flex;
+}
+
+.kitabangun-crowdfunding-old-version .footer-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  left: 0;
+  position: absolute;
+}
+
+.kitabangun-crowdfunding-old-version .frame {
+  align-items: flex-start;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  padding: 12px 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.kitabangun-crowdfunding-old-version .mask-group-6 {
+  display: flex;
+  position: absolute;
+}
+
+.kitabangun-crowdfunding-old-version .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+}
